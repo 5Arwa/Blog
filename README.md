@@ -16,4 +16,3 @@ Built With
 - MySQL
 - Bootstrap 5
 
-👩‍💻 Developed by Arwa Hamdy
