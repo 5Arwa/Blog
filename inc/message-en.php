@@ -1,0 +1,30 @@
+<?php
+$message = [
+    "All posts"=>"All Posts",
+    "title"=>"title",
+    "Blog"=>"Blog",
+    "show"=>"show",
+    "edit"=>"edit",
+    'update'=>'update',
+    "delete"=> "delete",
+    "add new post"=>"add new post",
+    "dir"=>"ltr",
+    "logout"=>"logout",
+    'body'=>'body',
+    'Add new post'=>'Add new post',
+    'Back'=>'Back',
+    'post'=>'post',
+    'image'=>'image',
+    'Previous'=>'Previous',
+    'Next'=>'Next',
+    'Actions'=>'Actions',
+    'Published At'=>'Published At',
+    'page'=>'page',
+    'page_of'=>'page_of',
+    'Edit post'=>'Edit post',
+    'Login'=>'Login',
+    'Email'=>'Email',
+    'Password'=>'Password',
+
+    
+];
